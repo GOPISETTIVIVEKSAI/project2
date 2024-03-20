@@ -1,0 +1,81 @@
+.nav-section{
+    float:left;
+    width:100%;
+    background-color:aqua;
+}
+ul{ 
+    text-align:center;
+    width:100%;
+}
+li{
+    display:inline-block;
+    background:chocolate;
+    text-align:center;
+    margin:0% 5% 0% 5%;
+    padding:0.5% 2% 0.5% 2%;
+    cursor:pointer;
+}
+.form-section{
+    float:left;
+    width:100%;
+    background-color: rgb(244, 94, 194);
+    text-align:center;
+    margin:5% 0% 0% 0%; 
+    padding:2% 0% 2% 0%;
+    border-style:solid;
+}
+form{
+    float:left;
+    width:50%;
+    background-color:yellow;
+    text-align:center;
+    margin:0% 20% 0% 20%;
+}
+input{
+    float:"left";
+    width:30%;
+    background-color:rgb(197, 160, 103);
+    text-align:center;
+    font-size:25px;
+    padding:2% 0% 2% 0%;
+    margin:2% 0% 2% 0%;
+    border-style:solid;
+}
+button{
+    cursor:pointer;
+    border-style:solid;
+    margin:5% 0% 5% 0%;
+}
+.footer{
+    float:left;
+    width:100%;
+    background-color: rgb(121, 19, 216);
+    text-align:center;
+    font-size:16px;
+    margin:10% 0% 0% 0%;
+    border-style:solid;
+}
+.college{
+    float:left;
+    width:20%;
+    margin:5% 0% 0% 40%;
+    background-color:blue;
+    text-align:center;
+}
+.images{
+    float:left;
+    width:100%;  
+    background-color:red;
+}
+img{
+    float:left;
+    width:50%;
+    padding:10% 0% 100% 0%;
+}
+.para{
+    float:left;
+    width:50%;
+    background-color:blue;
+    padding:20% 0% 30% 0%;
+
+}
